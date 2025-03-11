@@ -20,3 +20,5 @@ scalar = np.asscalar(arr)
 """generell nicht zu empfehlen!"""
 # python -m venv --system-site-packages 
 # Auch extern Libs mit zu laden.
+
+#ich speichere 
