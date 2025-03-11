@@ -7,3 +7,4 @@
 #git push -u origin main
 
 # Nie wieder git
+# nie nie nie wieder
