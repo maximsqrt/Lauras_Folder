@@ -1,8 +1,6 @@
 # Exkurs Seaborn, gute Lib auch für Darstelleung und Graphen 
 # Basiert aber auf Matplotlib, änderungen hätten somit direkt einfluss auf Abhängigkeiten
 
-
-
 import numpy
 # Alte Methode in der Numpy Lib 
 # Angennommen wir haben einen Array
